@@ -1,0 +1,15 @@
+h1 {
+    font-family: "Helvetica Neue";
+    background-color: rgb(73, 108, 206);
+    background-size: auto;
+    color: lightblue;
+}
+
+h2 {
+    font-family: "Helvetica Neue";
+    color: rgb(73, 108, 206);
+}
+
+p {
+    font-family: "Myriad Regular";
+}
